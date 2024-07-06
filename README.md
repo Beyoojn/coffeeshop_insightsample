@@ -30,6 +30,6 @@ To analyze the sales dataset comprehensively to uncover actionable insights that
 
 ## Business Metric 
 
-1. Customer Retention Rate
-     * Definition: Percentage of customers who return to make additional purchases.
-     * Importance: Indicates customer satisfaction and loyalty, essential for sustainable business growth.
+Customer Retention Rate
+* Definition: Percentage of customers who return to make additional purchases.
+* Importance: Indicates customer satisfaction and loyalty, essential for sustainable business growth.
